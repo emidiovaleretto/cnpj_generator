@@ -1,1 +1,1 @@
-# cnpj_generator
+# validate_cnpj
